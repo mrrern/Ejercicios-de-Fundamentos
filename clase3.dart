@@ -92,8 +92,8 @@ class _ContenidoPrincipalState extends State<ContenidoPrincipal> {
                 });
               },
             ),
-            
-        ),
+
+        ],
       ),
     );
   }
