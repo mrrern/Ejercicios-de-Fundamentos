@@ -247,7 +247,7 @@ class _AgregarAlumnosState extends State<AgregarAlumnos> {
                 apellido.isNotEmpty &&
                 altura != null &&
                 mascotas != null) {
-              widget.onAgregar(       //Aqui llamo al componente AgregarUsuario con el termino widget y llamo la variable de clase onAgregar e ingreso los datos recolectados
+              widget.onAgregar(       //Aqui llamo al componente AgregarUsuario con el termino widget y llamo la variable de clase onAgregar e ingreso los datos recolectados 
                 alumno: nombre,
                 segundoNombre: segundo,
                 apellido: apellido,
